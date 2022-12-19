@@ -7,6 +7,6 @@
 ## 5.Suraj Chougule
 ## 6.Sanyam Ajmera
 ## 7.Saurabh Mane
-## 8. Abhhijit Gaikwad
+## 8. Abhijit Gaikwad
 ## 9.
 ## 10.
