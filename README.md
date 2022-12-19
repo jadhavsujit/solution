@@ -1,3 +1,3 @@
 # solution
 <h2> HII <h2>
-- Go to [Contact Us](/ContactUs)
+<link src="https://github.com/jadhavsujit/solution/edit/main/ContactUS.md">Contact Us</link>
