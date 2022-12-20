@@ -28,8 +28,21 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 ## Functional Requirements:
 
- A Student can able to give their feedback by login on Feedback portal and Faculty can able to see feedback of student but not their personal details.
- A Organization can able to see a performance of their Faculties and told them where they can improve and become better in their skill.
+### Student:
+- Student can login on feedback portal.
+- Students can see all faculties names.
+- Students can submit rating according to faculties performance.
+
+### Course Co-ordinator:
+- Co-ordinator login credentials lead to dashboard.
+- Co-ordinator can see all feedbacks which given by students.
+- Co-odinator can approve all valid feedbacks and forbid invalid feedbacks.
+- Co-ordinator will send all valid feedbacks to Trainer/Faculty.
+
+### Trainer:
+- Trainer login credentials lead to dash.
+- Trainer can see feedbacks sent by Co-ordinator.
+- Trainer has facility to respond genuine criticism and co-ordinate with Course Co-odinator.
 
 
 
