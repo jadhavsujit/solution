@@ -28,7 +28,7 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 ## Functional Requirements:
 
- A Student can able to give their feedback by login on Feedback portal and Faculty can able to see feedlback of student but not their personal details.
+ A Student can able to give their feedback by login on Feedback portal and Faculty can able to see feedback of student but not their personal details.
  A Organization can able to see a performance of their Faculties and told them where they can improve and become better in their skill.
 
 
@@ -38,7 +38,12 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 ## Non-Functional Requirements:
 ### Security:
-
+- Only Registered Student, Course Co-ordinator and lab faculty will get accessed through certain authentication process.
+- System will provide access to the contents, components using login authorization (authorized login will already be created)(no create account but only forgot password)
+- If the feedback system allows users to post comments or reviews, it's important to have a moderation process in place to ensure that inappropriate or offensive content is not published. So, feedback given by student would be hidden, only feedback text will be visible to course co-ordinator. He (or) she will accept/reject the feedback
+- As soon as trainer login securely with their credentials, he/she will noticed with notification that students have given them certain Evaluation which already segregated by course co-ordinator and sensitive data will be always encrypted.
+- System will internally maintain secure communication channel between servers
+- system itself should be secure against attacks such as denial of service (DoS) attacks, which could disrupt the system and prevent users from accessing it.
 
 ### Reliability:
 
