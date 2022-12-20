@@ -61,8 +61,10 @@ The online feedback portal of oraganization for students and faculty helps organ
 ### Accessibility:
 - system should be easy to use for all users, regardless of their abilities or disabilities. This may involve designing the system to be navigable using a keyboard, or providing clear and concise instructions on how to use the system.
 - Only registered Students, Trainers, course co-ordinator, reviewer will be accessed after authentication.
-- Reviewer can reject or approve comments based on their reactions.
+- The language used in the feedback system should be clear and concise, and should be easy to understand for users with cognitive or language-based disabilities. Reviewer can reject or approve comments based on their reactions.
 - Trainer will able to see their evaluation given by student.
+
+
 
 
 ### Durability:
@@ -77,8 +79,10 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 ### Modularity:
-
-
+- Modularity refers to the degree to which the system is composed of independent or dependent, self-contained modules that perform specific functions. Modular systems are designed to be flexible, scalable, and easy to maintain, as they can be modified or replaced without affecting the overall operation of the system.
+- By separating the system into distinct modules, the risk of failure can be reduced, as the failure of one module will not necessarily affect the operation of the entire system.
+- Modular systems are easier to troubleshoot and repair, as the module responsible for a problem can be identified and replaced without disrupting the entire system.
+- Overall, modularity can improve the performance, reliability, and flexibility of a feedback system, making it easier to maintain and adapt to changing needs.
 
 
 ### Scalability:
@@ -91,4 +95,4 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 
-
+By considering these factors, we can ensure that our feedback system is accessible to all users.
