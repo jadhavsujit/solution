@@ -15,11 +15,11 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 ## Scope:
-This System allow user to submit feedback which provides us such as comments, suggestion, ratings ,reviews.
+-This System allow user to submit feedback which provides us such as comments, suggestion, ratings ,reviews.
 
-The groups of users who will be able to access the portal, such as students, teachers, administrators, or other staff members.
+-The groups of users who will be able to access the portal, such as students, teachers, administrators, or other staff members.
 
-The features and functionality that the portal will include, such as the ability to submit feedback anonymously, the ability to track and respond to feedback.
+-The features and functionality that the portal will include, such as the ability to submit feedback anonymously, the ability to track and respond to feedback.
 
 ## Definations:
 
