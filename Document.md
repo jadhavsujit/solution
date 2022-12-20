@@ -27,6 +27,7 @@ The features and functionality that the portal will include, such as the ability
 
 
 ## Functional Requirements:
+Faculty and Student can able to give their feedback by login on Feedback portal. 
 
 
 
