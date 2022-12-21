@@ -27,6 +27,9 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 ## Functional Requirements:
+- A Student can able to give their feedback by login on Feedback portal and Faculty can able to see feedback of student but not their personal details.
+- A Organization can able to see a performance of their Faculties and told them where they can improve and become better in their skill.
+
 
 ### Student:
 - Student can login on feedback portal.
