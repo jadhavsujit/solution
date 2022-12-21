@@ -89,7 +89,7 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 ### Efficiency:
-- At time of feeling feedback all students are able to fill a form without any waiting time(loading time).
+- At time of filling feedback all students are able to fill a form without any waiting time(loading time).
 - A system will able to manage all the feedback reviews and render on a server for a organization and team members.
 - The organization and team member can easily see their performance without any difficulty.
 
