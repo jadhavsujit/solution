@@ -10,7 +10,7 @@ Lab Faculty,Course Cordinator,project manager, developers, designers, testers,Ed
 
 
 ## Objective(Purpose):
-The online feedback portal of oraganization for students and faculty helps organization to progress in proper direction.It gives the scope for students to convey their messege to the organization.The positive feedback motivates the organization to continue their behaviours and negative feedback specifies what was wrong without being harsh so that organization know what and where to improve.
+The online feedback portal of oraganization for students and faculty helps organization to progress in proper direction.It gaves the scope of people to convey their messege to the organization.The positive feedback motivates the organization to continue their behaviours and negative feedback specifies what was wrong without being harsh so that organization know what and where to improve.
 
 
 
@@ -89,7 +89,14 @@ The online feedback portal of oraganization for students and faculty helps organ
 
 
 ### Efficiency:
-
+- At time of filling feedback all students are able to fill a form without any waiting time(loading time).
+- A system will able to manage all the feedback reviews and render on a server for a organization and team members.
+- The organization and team member can easily see their performance without any difficulty.
+- For efficient and quality improvement of an educational institute, feedback plays a key role in it.
+- With a proper feedback mechanism in place, the growth rate of an institute shows an upward movement.
+- The feedback mechanism helps in catering the weaknesses and further strengthening the strengths. 
+- The SWOT Analysis of an institute can be done by ensuring a strong feedback system is in place.
+- For a large Institute, it is impossible to manually manage a proper feedback system, hence the need for an automated Feedback Mechanism System.
 
 
 
